@@ -1,4 +1,4 @@
 # rocket
 
 the link:
-https://systemkiller03.github.io/rocket/html/launches.html
+https://systemkiller03.github.io/rocket/html/index.html
